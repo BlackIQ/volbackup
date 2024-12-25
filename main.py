@@ -26,9 +26,9 @@ def main():
 
                 file_name = f'{container_name}-{current_date}-{current_time}---{replaced_name}.zip'
                 
-                zip_directory(source_dir, f'./test/{file_name}')
+                zip_directory(source_dir, f'./tmp/{file_name}')
 
-                upload_file(f'./test/{file_name}', f'{dir_path}/{file_name}')
+                upload_file(f'./tmp/{file_name}', f'{dir_path}/{file_name}')
         
 if __name__ == '__main__':
     main()

@@ -16,3 +16,4 @@ pipfile.lock
 
 # Ignore any other files or directories specific to your development environment
 test
+tmp
