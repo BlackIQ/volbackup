@@ -1,2 +1,15 @@
-pywatchman==2.0.0
-wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.4/libexec/wheel-0.43.0-py3-none-any.whl#sha256=ff23205a590f2b902a2a21151019e96b93ab4a1409d7c9748b6bd210f4c0f44d
+boto3==1.35.87
+botocore==1.35.87
+certifi==2024.12.14
+charset-normalizer==3.4.1
+docker==7.1.0
+idna==3.10
+jmespath==1.0.1
+prettytable==3.12.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+requests==2.32.3
+s3transfer==0.10.4
+six==1.17.0
+urllib3==2.3.0
+wcwidth==0.2.13

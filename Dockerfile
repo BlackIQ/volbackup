@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN mkdir -p /app/tmp
 
-CMD ["python", "main.py"]
+CMD ["ping", "1.1.1.1"]
