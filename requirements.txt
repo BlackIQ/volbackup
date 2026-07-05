@@ -11,5 +11,5 @@ python-dotenv==1.2.2
 requests==2.32.4
 s3transfer==0.10.4
 six==1.17.0
-urllib3==2.6.3
+urllib3==2.7.0
 wcwidth==0.2.13
